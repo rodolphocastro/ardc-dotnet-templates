@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageType>Template</PackageType>
+    <PackageVersion>1.0</PackageVersion>
+    <PackageId>ARDC.Commons.Templates</PackageId>
+    <Title>ARdC Common Templates</Title>
+    <Authors>Rodolpho Alves</Authors>
+    <Description>Templates to use when creating common files.</Description>
+    <PackageTags>dotnet-new;templates;common;readme;editorconfig</PackageTags>
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+    <IncludeContentInPack>true</IncludeContentInPack>
+    <IncludeBuildOutput>false</IncludeBuildOutput>
+    <ContentTargetFolders>content</ContentTargetFolders>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="src\**\*" Exclude="src\**\bin\**;src\**\obj\**" />
+    <Compile Remove="**\*" />
+  </ItemGroup>
+
+</Project>
