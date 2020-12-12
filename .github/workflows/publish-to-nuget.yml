@@ -1,4 +1,4 @@
-name: .NET Core
+name: Publish to NuGet.org
 
 on:
   release:
@@ -21,4 +21,4 @@ jobs:
     - name: Pack
       run: dotnet pack --configuration Release -o ./pkgs/
     - name: Publish to NuGet
-      run: dotnet nuget push ./pkgs/*.nupkg --api-key {{ secrets.NugetToken }} --source https://api.nuget.org/v3/index.json
+      run: dotnet nuget push "**/*.nupkg" --api-key ${{ secrets.NugetToken }} --source https://api.nuget.org/v3/index.json
