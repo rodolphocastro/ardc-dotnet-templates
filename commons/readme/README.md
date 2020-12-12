@@ -1,4 +1,6 @@
-# 🆕 My Project
+# 🆕 {My Project}
+
+## ❓ What is {My Project}?
 
 ## ⚡ Getting Started
 
@@ -8,4 +10,4 @@
 
 ### ▶ Running and Settings
 
-## 🤝 Collaborate
+## 🤝 Collaborate with {My Project}

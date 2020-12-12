@@ -11,5 +11,15 @@
     "description": "A template for README.md files, commonly used for git repos",
     "tags": {
         "type": "item"
+    },
+    "symbols": {
+        "projectName":{
+            "type": "parameter",
+            "defaultValue": "My Project",
+            "replaces": "{My Project}",
+            "datatype": "text",
+            "isRequired": false,
+            "description": "The name of your project"
+        }
     }
 }
