@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Rodolpho Alves",
+    "classifications": [
+        "Common",
+        "README"
+    ],
+    "identity": "ARDC.Commons.Readme",
+    "name": "Readme (Markdown)",
+    "shortName": "readme",
+    "description": "A template for README.md files, commonly used for git repos",
+    "tags": {
+        "type": "item"
+    }
+}
