@@ -7,9 +7,12 @@
     <Title>ARdC Common Templates</Title>
     <Authors>Rodolpho Alves</Authors>
     <Description>Templates to use when creating common files.</Description>
-    <PackageTags>dotnet-new;templates;common;readme;editorconfig</PackageTags>
+    <PackageTags>dotnet-new;templates;common;readme;editorconfig;licenses;changelog</PackageTags>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/rodolphocastro/ardc-dotnet-templates.git</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/rodolphocastro/ardc-dotnet-templates/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/rodolphocastro/ardc-dotnet-templates</PackageProjectUrl>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <ContentTargetFolders>content</ContentTargetFolders>

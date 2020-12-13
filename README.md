@@ -9,10 +9,13 @@ Currently the following templates are available:
 1. README.md (A simple readme written in Markdown)
 2. MIT License (A LICENSE file containing the MIT License)
 3. GNU GPL v3 License (A LICENSE file containing the GNU GPL v3 License)
+4. CHANGELOG (a simple changelog written in Markdown)
+
+You can find more about each version of this project on the [CHANGELOG file](./CHANGELOG.md) or by checking out the [Releases on GitHub](https://github.com/rodolphocastro/ardc-dotnet-templates/releases).
 
 ## ⚡ Getting Started
 
-In order to install run the following command on your shell:
+In order to install run the following command on your shell to download the [NuGet package for ARDC.Commons.Templates](https://www.nuget.org/packages/ARDC.Commons.Templates/):
 
 ```
 dotnet new --install ARDC.Commons.Templates
