@@ -18,6 +18,16 @@ Based on [keep a changelog](https://keepachangelog.com/en/1.0.0/).
 
 <!-- ### [Unreleased] - Security -->
 
+## [0.2.1]
+
+### [0.2.1] - Added
+
++ `.editorconfig` to aid with future contributions.
+
+### [0.2.1] - Changed
+
++ Project's metadata updated with latest information.
+
 ## [0.2.0]
 
 ### [0.2.0] - Added

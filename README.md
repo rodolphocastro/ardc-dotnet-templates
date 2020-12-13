@@ -53,6 +53,10 @@ Then run `dotnet nuget push "**/*.nupkg" --api-key yourApiKey --source https://a
 
 License files are based on the great work done by [Choose a License](https://choosealicense.com/).
 
+### Keep a Changelog
+
+The Changelog template contained here is based on [keep a changelog](https://keepachangelog.com/en/1.0.0/) and follows their suggestions almost by the letter.
+
 ## 🤝 Collaborate with ARDC Templates
 
 Read-up on Microsoft's docs for creating templates for `dotnet new`, available [here](https://docs.microsoft.com/en-us/dotnet/core/tools/custom-templates).
