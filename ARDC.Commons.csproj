@@ -8,7 +8,7 @@
     <Authors>Rodolpho Alves</Authors>
     <Description>Templates to use when creating common files.</Description>
     <PackageTags>dotnet-new;templates;common;readme;editorconfig</PackageTags>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
 
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
