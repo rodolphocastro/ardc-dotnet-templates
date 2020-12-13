@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Rodolpho Alves",
+    "classifications": [
+        "Common",
+        "LICENSE"
+    ],
+    "identity": "ARDC.Commons.License.GPLv3",
+    "name": "License (GNU GPL v3)",
+    "shortName": "license-gpl3",
+    "description": "A template for a GPL V3 license",
+    "tags": {
+        "type": "item"
+    }
+}
