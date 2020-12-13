@@ -1,0 +1,17 @@
+root = true
+
+# All Files
+[*]
+charset = utf-8
+end_of_line = crlf
+trim_trailing_whitespace = true
+
+# Markdown files
+[*.md]
+indent_style = space
+indent_size = 2
+
+# json files
+[*.json]
+indent_style = space
+indent_size = 2
